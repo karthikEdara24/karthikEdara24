@@ -1,28 +1,11 @@
-<!--
-## Hi there 👋
-
-
-**karthikEdara24/karthikEdara24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there, I'm **Karthik Edara** 👋
 
 Welcome to my GitHub profile! I am a passionate student and developer currently pursuing my **3rd year B.Tech** in **Computer Science and Business Systems** at **R.V.R. & J.C. College of Engineering**.
 
 ## About Me
 
-- 🔭 I’m currently working on various **Python** and **Web Development** projects.
-- 🌱 I’m constantly learning new technologies, with a special focus on **Machine Learning**, **Artificial Intelligence**, and **Cloud Computing**.
+- 🔭 I’m currently working on various **Machine Learning** and **AI** projects.
+- 🌱 I’m constantly learning new technologies, with a special focus on **Machine Learning**, **Artificial Intelligence**, and **Data Science**.
 - 👯 I’m looking to collaborate on open-source projects and help build cool software solutions.
 - 💬 Ask me about anything related to **Programming**, **Algorithms**, and **Tech** — I love discussing and sharing knowledge!
 - 📫 How to reach me: [karthikedara514@gmail.com](mailto:karthikedara514@gmail.com)
@@ -39,8 +22,7 @@ Welcome to my GitHub profile! I am a passionate student and developer currently 
 - **Languages**: Python, C, Java, HTML/CSS
 - **Frameworks & Tools**: Flask, Git
 - **Databases**: MySQL, MongoDB
-- **Machine Learning**: TensorFlow, Scikit-learn
-- **Cloud**: AWS, Google Cloud
+- **Machine Learning**: Scikit-learn, Hugging Faces
 - **Others**: GitHub, VS Code, Jupyter
 <!--
 ## Projects
@@ -55,8 +37,8 @@ Feel free to explore my repositories for more!
 ## Contact Me
 
 - 📧 **Email**: [karthikedara514@gmail.com](mailto:karthikedara514@gmail.com)
-- 🔗 **LinkedIn**: [Karthik Edara](https://www.linkedin.com/in/karthik-edara/)
-- 🌐 **Portfolio**: [karthikedara.com](https://karthikedara.com) (If applicable)
+- 🔗 **LinkedIn**: [Karthik Edara](http://www.linkedin.com/in/karthik-edara-704270286)
+- 🌐 **Portfolio**: [karthikedara.com](https://karthikedara.com) 
 
 ## Let's Connect
 
