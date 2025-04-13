@@ -17,29 +17,74 @@ Welcome to my GitHub profile! I am a passionate student and developer currently 
   *Currently in 3rd Year*  
   *Graduation: 2026*
 
-## Skills
+---
 
-- **Languages**: Python, C, Java, HTML/CSS
-- **Frameworks & Tools**: Flask, Git
-- **Databases**: MySQL, MongoDB
-- **Machine Learning**: Scikit-learn, Hugging Faces
-- **Others**: GitHub, VS Code, Jupyter
-<!--
-## Projects
+## 🛠 Skills
 
-Here are a few projects I’ve been working on:
+### Programming:
+Python | C | Java | HTML | CSS
 
-- [**Python Web App**](https://github.com/KarthikEdara/python-web-app): A Flask-based web application that allows users to manage tasks.
-- [**Machine Learning Model**](https://github.com/KarthikEdara/ml-model): A machine learning model built for predicting house prices using a dataset.
+### ML & AI:
+Scikit-learn | NumPy | Pandas | Matplotlib | HuggingFace | LLMs | Finetuning
 
-Feel free to explore my repositories for more!
--->
-## Contact Me
+### Databases:
+MySQL | MongoDB
 
-- 📧 **Email**: [karthikedara514@gmail.com](mailto:karthikedara514@gmail.com)
-- 🔗 **LinkedIn**: [Karthik Edara](http://www.linkedin.com/in/karthik-edara-704270286)
-- 🌐 **Portfolio**: [karthikedara.com](https://karthikedara.com) 
+### Platforms & Tools:
+Git | GitHub | Google Colab | VS Code | Android Studio | DialogFlow | Streamlit
 
-## Let's Connect
+---
 
-I love connecting with like-minded people and collaborating on tech-related projects. Don’t hesitate to reach out!
+## 💼 Internships
+
+- **AI-ML Intern @ IBM SkillsBuild** (Jun 2024 – Jul 2024)  
+  → Built a Random Forest model to predict employee burnout with **83.87% accuracy** on 22,750+ records.  
+  → Optimized data workflows, reducing manual effort by **30%**.
+
+- **AI Tools Intern @ RJ E-NEST** (Jul 2024 – Present)  
+  → Enhanced workflow efficiency by **25%** using AI-driven automation tools.  
+  → Researched and implemented innovative AI techniques, cutting execution time by **40%**.
+
+---
+
+## 🧠 Projects
+
+- **Cardiovascular Disease Prediction**  
+  → Built a **Streamlit web app** using a Voting Classifier (Random Forest, KNN, SVM, Logistic Regression, XGBoost)  
+  → Achieved **85% prediction accuracy** and improved data prep speed by **30%**
+
+- **Job Title Prediction System**  
+  → Employed CountVectorizer with KNN, SVM, Logistic Regression, and Gradient Boosting  
+  → Achieved **85% accuracy** and reduced model training time by **20%**
+
+- **Employee Burnout Prediction**  
+  → Created a Decision Tree model with **78% accuracy**  
+  → Designed insightful dashboards with **Matplotlib & Seaborn**, improving HR response time by **35%**
+
+
+---
+
+## 📜 Certifications
+
+- [Artificial Intelligence Fundamentals – IBM](#)
+- [Prompt Engineering – IBM](#)
+- [Machine Learning – Kaggle](#)
+- [Generative AI Fundamentals – Databricks](#)
+- [Finetuning and AI Agents – Deeplearning.ai](#)
+- [Introduction to IoT 4.0 – NPTEL](#)
+- [Reinforcement Learning & Deep Learning Essentials – IBM](#)
+- [Python for Data Science – IBM](#)
+- [Data Science for Engineers – NPTEL](#)
+
+---
+
+## 📫 Let's Connect!
+
+📧 **Email**: karthikedara514@gmail.com  
+🔗 **LinkedIn**: [Karthik Edara](https://www.linkedin.com/in/KarthikEdara)  
+🐙 **GitHub**: [@Karthikedara24](https://github.com/Karthikedara24)
+
+---
+
+🌱 Currently exploring: **Generative AI, LLM Finetuning, and AI automation**  
+🚀 Always eager to collaborate on innovative tech projects!
