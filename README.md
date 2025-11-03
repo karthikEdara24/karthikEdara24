@@ -1,6 +1,6 @@
 # Hi there, I'm **Karthik Edara** 👋
 
-Welcome to my GitHub profile! I am a passionate student and developer currently pursuing my **3rd year B.Tech** in **Computer Science and Business Systems** at **R.V.R. & J.C. College of Engineering**.
+Welcome to my GitHub profile! I am a passionate student and developer currently pursuing my **4th year B.Tech** in **Computer Science and Business Systems** at **R.V.R. & J.C. College of Engineering**.
 
 ## About Me
 
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I am a passionate student and developer currently 
 
 - **B.Tech in Computer Science and Business Systems**  
   *R.V.R. & J.C. College of Engineering*  
-  *Currently in 3rd Year*  
+  *Currently in 4th Year*  
   *Graduation: 2026*
 
 ---
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I am a passionate student and developer currently 
 ## 🛠 Skills
 
 ### Programming:
-Python | C | Java | HTML | CSS
+Python | C | Core Java | HTML | CSS
 
 ### ML & AI:
 Scikit-learn | NumPy | Pandas | Matplotlib | HuggingFace | LLMs | Finetuning
@@ -63,7 +63,7 @@ Git | GitHub | Google Colab | VS Code | Android Studio | DialogFlow | Streamlit
 
 
 ---
-
+<!--
 ## 📜 Certifications
 
 - [Artificial Intelligence Fundamentals – IBM](#)
@@ -77,7 +77,7 @@ Git | GitHub | Google Colab | VS Code | Android Studio | DialogFlow | Streamlit
 - [Data Science for Engineers – NPTEL](#)
 
 ---
-
+-->
 ## 📫 Let's Connect!
 
 📧 **Email**: karthikedara514@gmail.com  
